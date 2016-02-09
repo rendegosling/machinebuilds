@@ -59,10 +59,10 @@ cinst git -y
 cinst curl -y
 cinst ruby -y
 cinst ruby2.devkit -y
-cinst sqlite3 -y
-cinst make -y
 cinst fiddler4 -y
 cinst brackets -y
+cinst visualstudiocode -y
+cinst atom -y
 cinst notepadplusplus -y
 cinst nodejs.install -y
 cinst sourcetree -y
