@@ -85,6 +85,9 @@ cinst join.me -y
 cinst slack -y
 cinst clover -y # windows explorer tabs
 cinst launchy -y
+cinst spotify -y
+cinst f.lux -y
+cinst revo.uninstaller -y
 
 #Not on Choco
 
