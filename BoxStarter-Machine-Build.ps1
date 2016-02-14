@@ -78,14 +78,13 @@ cinst windirstat -y
 cinst virtualbox -y
 cinst vagrant -y
 cinst ccleaner -y
-
 #cinst genymotion -y # use Xamarin player instead?
 choco install jdk8 -y
 #choco install maven -y # This package installs into C:/bin which is too annoying 
 cinst join.me -y
 cinst slack -y
-
-choco intall clover -y # windows explorer tabs
+cinst clover -y # windows explorer tabs
+cinst launchy -y
 
 #Not on Choco
 
